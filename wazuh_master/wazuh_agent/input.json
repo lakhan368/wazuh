@@ -1,0 +1,17 @@
+{
+  "wazuh_master": {
+    "sensitive": false,
+    "type": "string",
+    "value": "34.236.244.46"
+  },
+  "wazuh_master_Security_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "sg-0a7863d2c4f109fed"
+  },
+  "wazuh_master_private_ip": {
+    "sensitive": false,
+    "type": "string",
+    "value": "172.31.2.128"
+  }
+}
